@@ -1,2 +1,3 @@
-# RiotDeveloperApiRequests
-Riot Developer Api Request Links 
+# Riot Developer Api Requests
+
+You can easily find puuid, id, accountId, profileIconId, sumerLevel, name values.
