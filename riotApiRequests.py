@@ -1,7 +1,7 @@
 #bylessy
 import requests
 
-class APIRequests():
+class RiotAPIRequests():
     def __init__(self, apiKey : str, username: str, tag: str, region: str, server: str):
         self.api_key = apiKey
         self.username = username
